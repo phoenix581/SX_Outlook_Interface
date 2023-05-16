@@ -1,0 +1,13 @@
+{
+  "version" : 1,
+  "businessRule" : {
+        "version": 1,
+        "items": [
+            {
+                "className": "com.byes.paap.PlanonOutlookInterface",
+                "events": [{"event": "BeforeUpdate"}],
+                "businessObjects": [{"name": "WorkAssignment"}]
+            }
+        ]
+    }
+}

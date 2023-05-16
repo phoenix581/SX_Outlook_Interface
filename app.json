@@ -1,0 +1,11 @@
+{
+  "appUUID" : "BF950743-B497-4C7E-8F3E-B9360E1FE457",
+  "partnerIdentifier" : "bouygues.apps",
+  "name" : "sxoutlookinterface",
+  "version" : "1.0.0",
+  "release" : "87.0.0.22-1",
+  "repositories" : [ {
+    "url" : "https://repo1.maven.org/maven2/"
+  } ],
+  "autoReactivate" : true
+}

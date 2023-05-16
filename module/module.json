@@ -1,0 +1,23 @@
+{
+  "type" : "server",
+  "description" : "",
+  "dependencies" : [
+        {
+            "group": "com.microsoft.graph",
+            "name": "microsoft-graph",
+            "version": "5.30.0"
+        },
+        {
+            "group": "com.azure",
+            "name": "azure-identity",
+            "version": "1.7.0"
+        },
+        {
+            "group": "javax.xml.bind",
+            "name": "jaxb-api",
+            "version": "2.3.0"
+        }
+    ],
+  "testDependencies" : [ ],
+  "integrationTestDependencies" : [ ]
+}
